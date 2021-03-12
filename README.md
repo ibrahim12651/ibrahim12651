@@ -1,5 +1,9 @@
-### Merhaba
+#Merhaba
 Adım İbrahim, Python ilgilenmekteyim :) Şuanda odies.net sitesin de yetkiliyim
+
+# Discord Sunucular:
+
+[Odies Development](https://discord.gg/t8KZWDyTkU)
 
 <!--
 **ibrahim12651/ibrahim12651** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,5 @@
-### Hi there 👋
+### Merhaba
+Adım İbrahim, Python ilgilenmekteyim :) Şuanda odies.net sitesin de yetkiliyim
 
 <!--
 **ibrahim12651/ibrahim12651** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

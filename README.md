@@ -1,4 +1,4 @@
-#Merhaba
+# Merhaba
 Adım İbrahim, Python ilgilenmekteyim :) Şuanda odies.net sitesin de yetkiliyim
 
 # Discord Sunucular:

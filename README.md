@@ -1,7 +1,6 @@
 # Merhaba
-Adım İbrahim, Python ilgilenmekteyim :) 
+Adım İbrahim, Html&Css ilgilenmekteyim :) 
 
-# Discord Sunucular:
 
 
 <!--

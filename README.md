@@ -1,5 +1,5 @@
 # Merhaba
-Adım İbrahim, Html&Css ilgilenmekteyim :) 
+Adım İbrahim,
 
 
 
